@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e0f47f-71e0-4f99-9624-80d27fc14a96" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Bank/Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/controller/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/controller/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/controller/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/controller/SafeBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/out/production/Bank/com/company/controller/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/controller/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/controller/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/controller/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/controller/FinancialRelease.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank/src/com/company/controller/SafeBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankTest/Controller/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaInsercao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaInsercao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaInsercaoComParametro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaInsercaoComParametro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaListagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaListagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaPoolConexoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaPoolConexoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaRemocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/br/com/lojavirtual/TestaRemocao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/GuardadorDeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/GuardadorDeContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayDePrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayDePrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/java6-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayDePrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/java6-projetos-iniciais/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayDePrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/Bytebank/src/main/kotlin/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/ChamadaSegura.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/ChamadaSegura.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/Comentarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/Comentarios.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/ForcandoNPE.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/ForcandoNPE.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/NotacaoPonto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/NotacaoPonto.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/OperadorElvis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/OperadorElvis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/PessoaValidacao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/PessoaValidacao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/PrimeiroPrograma.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/PrimeiroPrograma.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/TemplateString01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/TemplateString01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/TemplateStringo02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/TemplateStringo02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/Var.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/CursoKotlin/src/main/kotlin/fundamentos/Var.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/CreatingClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/CreatingClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/CreatingInheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/CreatingInheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/ForLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/ForLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/TestingVariables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/TestingVariables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/WhileLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/LearningKotlin/src/main/kotlin/basicsintax/WhileLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/CalculadoraDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/CalculadoraDeSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopment/src/main/java/br/com/elosinfoplatform/tdd/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopment/src/test/java/br/com/elosinfoplatform/tdd/CalculadoraDeSalarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopment/src/test/java/br/com/elosinfoplatform/tdd/CalculadoraDeSalarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ReajustadorSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ReajustadorSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/Validacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/Validacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ValidacaoLimiteReajuste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ValidacaoLimiteReajuste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ValidacaoPeriodoMinimoReajuste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/model/ValidacaoPeriodoMinimoReajuste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/service/PromocaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arquitetura/2051-solid-java-projeto_inicial/src/br/com/alura/rh/service/PromocaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/config/SnsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/config/SnsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/config/local/SnsCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/config/local/SnsCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/enums/EventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/enums/EventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/Envelope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/Envelope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/ProductEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/model/ProductEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/service/ProductPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project01/src/main/java/br/com/elosinfo/aws_project01/service/ProductPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/config/JmsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/config/JmsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/enums/EventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/enums/EventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/Envelope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/Envelope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/ProductEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/ProductEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/SnsMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/model/SnsMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/service/ProductEventConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aws_project02/src/main/java/br/com/elosinfo/aws_project02/service/ProductEventConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/RdsStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/RdsStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/Service02Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/Service02Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/SnsStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/SnsStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/VpcStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso_aws_cdk/src/main/java/com/myorg/VpcStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/TopicoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/TopicoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/config/validacao/ErroDeValidacaoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/config/validacao/ErroDeValidacaoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/DetalheTopicoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/DetalheTopicoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/ErroDeFormularioDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/ErroDeFormularioDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/RespostaDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/RespostaDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/TopicoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/dto/TopicoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/form/UpdateTopicoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/controller/form/UpdateTopicoForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Resposta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Resposta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Topico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Topico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/modelo/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/repository/CursoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/repository/CursoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/repository/TopicoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/java/br/com/alura/forum/repository/TopicoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forum/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../forum/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-array/src/main/kotlin/IntroArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin-array/src/main/kotlin/IntroArrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/controller/GenericsController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/controller/GenericsController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/controller/MessagesController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/controller/MessagesController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/repository/MessagesRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/repository/MessagesRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/service/MessagesService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/kotlin/br/com/demo/service/MessagesService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/resources/sql/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin_projects/demo/src/main/resources/sql/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rasfood/src/main/java/br/com/rasmoo/restaurante/entity/Prato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rasfood/src/main/java/br/com/rasmoo/restaurante/entity/Prato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rasfood/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rasfood/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/VehicleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/config/validation/ValidationErrorHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/controller/FuelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/controller/VehicleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/dto/FormErrorDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/dto/ModelDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/dto/ReturnDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/dto/VehicleDetailDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/dto/VehicleDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/form/UpdateVehicleForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/form/VehicleForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/model/Brand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/model/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/model/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/model/VehicleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/repository/ModelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/repository/VehicleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/java/br/com/autonote/vehicle/service/VehicleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonote/autonote-vehicle/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/controller/BrandController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/controller/VehicleController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/model/Brand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/model/FuelRegistry.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/model/Model.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/model/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/autonotes-api/src/main/kotlin/br/com/autonotes/api/model/Vehicle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/dto/BrandView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/dto/BrandView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/dto/NewBrandForm.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/dto/NewBrandForm.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/BrandFormMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/BrandFormMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/BrandViewMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/BrandViewMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/Mapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/mapper/Mapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/FuelRegistry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/FuelRegistry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/MaintenanceRegistry.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/Owner.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/Vehicle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/model/Vehicle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/BrandService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/BrandService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/FuelRegistryService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/MaintenanceRegistryService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/OwnerService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/src/main/kotlin/br/com/autonotes/service/VehicleService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autonotes/teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elos-finn-api/elos-finn-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/customer/src/main/kotlin/br/com/elosinfo/customer/controller/CustomerController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/customer/src/main/kotlin/br/com/elosinfo/customer/domain/Entities.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/customer/src/main/kotlin/br/com/elosinfo/customer/domain/Repositories.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/customer/src/main/kotlin/br/com/elosinfo/customer/interfaces/CustomerAPI.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/customer/src/main/kotlin/br/com/elosinfo/customer/model/Customer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/controller/UserController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/dto/UserDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/dto/UserForm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/mapper/Mapper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/model/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-account-api/src/main/kotlin/br/com/elosinfo/account/service/UserService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-auth/src/main/java/br/com/elosinfo/auth/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-auth/src/main/java/br/com/elosinfo/auth/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-auth/src/main/java/br/com/elosinfo/auth/model/dto/UserCreatedDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-auth/src/main/java/br/com/elosinfo/auth/model/dto/UserForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-auth/src/main/java/br/com/elosinfo/auth/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-campaign-api/src/main/kotlin/br/com/elosinfo/campaign/api/web/controller/CampaignController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-customer/src/main/java/br/com/elosinfo/customer/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-customer/src/main/java/br/com/elosinfo/customer/model/dto/CustomerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-customer/src/main/java/br/com/elosinfo/customer/model/dto/CustomerForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-platform/src/main/kotlin/br/com/elosinfo/controller/CustomerController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-platform/src/main/kotlin/br/com/elosinfo/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-platform/src/main/kotlin/br/com/elosinfo/model/Customer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-vehicle-api/src/main/java/br/com/elosinfo/vehicle/controller/FuellingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo-vehicle-api/src/main/java/br/com/elosinfo/vehicle/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/controller/PayOrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/model/PayOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/model/PayStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/model/PayType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elosinfo/elosinfo.finance.api/src/main/java/br/com/elosinfo/finance/api/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana-api/src/main/kotlin/br/com/melhorsemana/api/HelloController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana-api/src/main/kotlin/br/com/melhorsemana/api/model/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/controller/HomeControler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/controller/HomeControler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/controller/TaskController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/controller/TaskController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskCategory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskCategory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskPriority.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskPriority.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskStatus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/model/TaskStatus.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/service/TaskService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemana/melhorsemana.api/src/main/kotlin/br/com/melhorsemana/api/service/TaskService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskComplexity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskComplexity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskGroup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskGroup.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskResolution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskResolution.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskStatus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskStatus.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskUrgency.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/TaskUrgency.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/Week.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../melhorsemanaprot/src/main/kotlin/br/com/melhorsemana/modelo/Week.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27JVG9rfLbKlXuhLqY4ezIdMXHT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestaFuncionario">
+    <configuration name="TestaCursoComAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaCursoComAluno" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaFuncionario" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaRecibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaRecibo" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestandoJavaIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestandoJavaIterator" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEmptySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteEmptySet" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaFuncionario" />
+        <item itemvalue="Application.TestandoJavaIterator" />
+        <item itemvalue="Application.TestaRecibo" />
+        <item itemvalue="Application.TestaCursoComAluno" />
+        <item itemvalue="Application.TesteEmptySet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e0f47f-71e0-4f99-9624-80d27fc14a96" name="Changes" comment="" />
+      <created>1649038082536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649038082536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
